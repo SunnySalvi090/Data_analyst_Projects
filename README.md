@@ -1,4 +1,4 @@
-# Data_analyst_Projects
+# eCommerce_InsightX
 📦 Ecommerce Data Analysis Project
 This project is a SQL-based data analysis of an eCommerce dataset. It demonstrates key data analytics skills using complex SQL queries to extract valuable business insights such as top-paying customers, revenue patterns, and customer behavior over time.
 
