@@ -32,6 +32,8 @@ FROM (
     GROUP BY orders.order_purchase_timestamp, orders.customer_id
 ) AS a
 WHERE d_rank <= 3;
+![Screenshot 2025-07-30 184827](https://github.com/user-attachments/assets/14f00791-17a4-423e-a469-d9ba9fd1f23c)
+
 🧠 This query returns the top 3 spending customers per year, highlighting repeat high-value buyers.
 
 📂 Files Included
