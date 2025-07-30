@@ -67,4 +67,4 @@ Connect to your database (with orders, payments tables, etc.)
 Run and modify queries for further exploration
 
 📧 Contact
-If you have questions or feedback, feel free to reach out via LinkedIn or email me at: your_email@example.com
+If you have questions or feedback, feel free to reach out via LinkedIn or email me at: sunnysalvi090@gmail.com
